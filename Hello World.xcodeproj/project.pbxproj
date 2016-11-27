@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9DAAAFE81DEB4011005E72BF /* biddy-hedgehog-16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DAAAFE71DEB4011005E72BF /* biddy-hedgehog-16.jpg */; };
 		9DB3FF021DE9287C00861671 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB3FF011DE9287C00861671 /* AppDelegate.swift */; };
 		9DB3FF041DE9287C00861671 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB3FF031DE9287C00861671 /* ViewController.swift */; };
 		9DB3FF071DE9287C00861671 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DB3FF051DE9287C00861671 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9DAAAFE71DEB4011005E72BF /* biddy-hedgehog-16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "biddy-hedgehog-16.jpg"; sourceTree = "<group>"; };
 		9DB3FEFE1DE9287C00861671 /* Hello World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DB3FF011DE9287C00861671 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DB3FF031DE9287C00861671 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		9DB3FF001DE9287C00861671 /* Hello World */ = {
 			isa = PBXGroup;
 			children = (
+				9DAAAFE71DEB4011005E72BF /* biddy-hedgehog-16.jpg */,
 				9DB3FF011DE9287C00861671 /* AppDelegate.swift */,
 				9DB3FF031DE9287C00861671 /* ViewController.swift */,
 				9DB3FF051DE9287C00861671 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DAAAFE81DEB4011005E72BF /* biddy-hedgehog-16.jpg in Resources */,
 				9DB3FF0C1DE9287C00861671 /* LaunchScreen.storyboard in Resources */,
 				9DB3FF091DE9287C00861671 /* Assets.xcassets in Resources */,
 				9DB3FF071DE9287C00861671 /* Main.storyboard in Resources */,
@@ -299,6 +303,7 @@
 				9DB3FF121DE9287C00861671 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
